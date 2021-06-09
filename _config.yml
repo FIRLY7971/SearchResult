@@ -1,0 +1,30 @@
+title: Blessing FLOW
+name: Blessing
+description: Информационный ресурс, где публикуются новости бренда Blessing, а также затрагивает многие новости из Fasion-индустрии
+
+themecolor: '#202225'
+imagehome: img/blessing.jpg
+url: 'http://localhost:3000/'
+baseurl: '/'
+
+plugins: [jekyll-paginate-v2]
+category_dir: blog
+pagination:
+  enabled: true
+  per_page: 9
+  title: ':title - Страница :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  
+exclude: ['node_modules', 'gulpfile.js', 'package.json', 'package-lock.json', 'js/common.js', 'npm-debug.log', '**/Thumbs.db', 'libs', 'sass', '**/*.DS_Store']
+
+soc:
+  <li><a href="#"><i class="fa fa-vk"></i></a></li>
+  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+  <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+  <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+  <li><a href="#"><i class="fa fa-rss"></i></a></li>
