@@ -3,8 +3,8 @@
 	<channel>
 		<title>Blessing</title>
 		<description>Информационный ресурс, где публикуются новости бренда Blessing, а также затрагивает многие новости из Fasion-индустрии</description>
-		<link>http://localhost:3000/</link>
-		<atom:link href="http://localhost:3000//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://blessing23.netlify.app/</link>
+		<atom:link href="https://blessing23.netlify.app//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Как правильно подавать свой продукт в интернете</title>
@@ -31,90 +31,115 @@
 			<item>
 				<title>SUPREME И NIKE ВЫПУСТЯТ СОВМЕСТНЫЕ AIR MAX 96</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html"><img width="100%" src="http://localhost:3000/images/interest/2021/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html"><img width="100%" src="https://blessing23.netlify.app/images/interest/2021/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96/1.jpg"></a>
 					Обзор новой легендарной пары от Nike и Supreme
 					]]></description>
 				<pubDate>Tue, 04 May 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</guid>
+				<link>https://blessing23.netlify.app//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</guid>
 			</item>
 		
 			<item>
 				<title>ЛУЧШИЕ КРОССОВКИ, КОТОРЫЕ ВЫЙДУТ НА СЛЕДУЮЩЕЙ НЕДЕЛЕ (С 3 ПО 9 МАЯ)</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html"><img width="100%" src="http://localhost:3000/images/collection/2021/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya/2.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html"><img width="100%" src="https://blessing23.netlify.app/images/collection/2021/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya/2.jpg"></a>
 					В данной статье показываем и рассказываем о лучших релизах этой недели.
 					]]></description>
 				<pubDate>Mon, 03 May 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html</guid>
+				<link>https://blessing23.netlify.app//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/collection/2021-05-03-luchshie-krossovki-kotorye-vyjdut-s-3-po-9-maya.html</guid>
 			</item>
 		
 			<item>
 				<title>ПРОЦЕСС СОЗДАНИЯ ЛОГОТИПА</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html"><img width="100%" src="http://localhost:3000/images/fashion-news/2021/2021-05-01-process-sozdaniya-logotipa/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html"><img width="100%" src="https://blessing23.netlify.app/images/fashion-news/2021/2021-05-01-process-sozdaniya-logotipa/1.jpg"></a>
 					В данной статье мы показываем вам процесс создания логотипа бренда, а также другие версии, которые могли стать основным логотипом
 					]]></description>
 				<pubDate>Sat, 01 May 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html</guid>
+				<link>https://blessing23.netlify.app//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/fashion-news/2021-05-01-process-sozdaniya-logotipa.html</guid>
 			</item>
 		
 			<item>
 				<title>КРОССОВКИ КАНЬЕ УЭСТА ПРОДАЛИ ЗА 1,8 МИЛЛИОНОВ ДОЛЛАРОВ</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html"><img width="100%" src="http://localhost:3000/images/interest/2021/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html"><img width="100%" src="https://blessing23.netlify.app/images/interest/2021/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov/1.jpg"></a>
 					Нашумевшая новость в сникер-мире
 					]]></description>
 				<pubDate>Tue, 27 Apr 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html</guid>
+				<link>https://blessing23.netlify.app//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/interest/2021-04-27-krossovki-kane-uesta-prodali-za-18-millionov-dollarov.html</guid>
 			</item>
 		
 			<item>
 				<title>Херон Престон создал коллекцию для Calvin Klein</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html"><img width="100%" src="http://localhost:3000/images/fashion-news/2021/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein/1_4.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html"><img width="100%" src="https://blessing23.netlify.app/images/fashion-news/2021/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein/1_4.jpg"></a>
 					Дизайнер и основатель марки Heron Preston Херон Престон выпустил совместную коллекцию с Calvin Klein, о создании которой было объявлено в начале апреля.
 					]]></description>
 				<pubDate>Thu, 22 Apr 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html</guid>
+				<link>https://blessing23.netlify.app//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/fashion-news/2021-04-22-xeron-preston-sozdal-kollekciyu-dlya-calvin-klein.html</guid>
 			</item>
 		
 			<item>
 				<title>GUCCI ПРЕДСТАВИЛ (НЕ)КОЛЛАБОРАЦИЮ С BALENCIAGA</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html"><img width="100%" src="http://localhost:3000/images/collection/2021/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html"><img width="100%" src="https://blessing23.netlify.app/images/collection/2021/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga/1.jpg"></a>
 					Обзор коллекции двух модных домов
 					]]></description>
 				<pubDate>Fri, 16 Apr 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html</guid>
+				<link>https://blessing23.netlify.app//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/collection/2021-04-16-gucci-predstavil-kollaboraciyu-s-balenciaga.html</guid>
 			</item>
 		
 			<item>
 				<title>ИСТОРИЯ СОЗДАНИЯ NIKE AIR MAX 1</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html"><img width="100%" src="http://localhost:3000/images/interest/2021/2021-04-09-istoriya-sozdaniya-nike-air-max-1/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html"><img width="100%" src="https://blessing23.netlify.app/images/interest/2021/2021-04-09-istoriya-sozdaniya-nike-air-max-1/1.jpg"></a>
 					История одной пары кроссовок, которая перевернула всю индустрию обуви.
 					]]></description>
 				<pubDate>Fri, 09 Apr 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html</guid>
+				<link>https://blessing23.netlify.app//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/interest/2021-04-09-istoriya-sozdaniya-nike-air-max-1.html</guid>
 			</item>
 		
 			<item>
 				<title>КОЛЛЕКЦИЯ RAF SIMONS FALL/WINTER 2021 READY-TO-WEAR</title>
 				<description><![CDATA[
-					<a href="http://localhost:3000//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html"><img width="100%" src="http://localhost:3000/images/collection/2021/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear/1.jpg"></a>
+					<a href="https://blessing23.netlify.app//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html"><img width="100%" src="https://blessing23.netlify.app/images/collection/2021/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear/1.jpg"></a>
 					Обзор новой эксцентричной коллекции RS
 					]]></description>
 				<pubDate>Thu, 25 Mar 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</guid>
+				<link>https://blessing23.netlify.app//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</guid>
 			</item>
 		
+<<<<<<< HEAD
+=======
+			<item>
+				<title>Интервью основатель бренда «Питерский щит» Костя Рязанцев</title>
+				<description><![CDATA[
+					<a href="https://blessing23.netlify.app//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html"><img width="100%" src="https://blessing23.netlify.app/images/fashion-news/2021/2021-03-22-osnovatel-marki-piterskij-shhit/1_2.jpg"></a>
+					Основатель бренда и субкультуры Костя Рязанцев
+					]]></description>
+				<pubDate>Mon, 22 Mar 2021 00:00:00 +0300</pubDate>
+				<link>https://blessing23.netlify.app//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html</guid>
+			</item>
+		
+			<item>
+				<title>КОЛЛЕКЦИЯ MAISON MARGIELA FALL/WINTER 2020 COUTURE</title>
+				<description><![CDATA[
+					<a href="https://blessing23.netlify.app//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html"><img width="100%" src="https://blessing23.netlify.app/images/collection/2021/2021-03-20-maison-margiela-fallwinter-2020-couture/1.jpg"></a>
+					Обзор новой интересной коллекции MAISON MARGIELA
+					]]></description>
+				<pubDate>Sat, 20 Mar 2021 00:00:00 +0300</pubDate>
+				<link>https://blessing23.netlify.app//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html</link>
+				<guid isPermaLink="true">https://blessing23.netlify.app//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html</guid>
+			</item>
+		
+>>>>>>> 9b3b6f1d8cbe9c9a1b5e2c6fb25ab734aa6ef333
 	</channel>
 </rss>

@@ -4,7 +4,7 @@ description: Информационный ресурс, где публикую�
 
 themecolor: '#202225'
 imagehome: img/blessing.jpg
-url: 'http://localhost:3000/'
+url: 'https://blessing23.netlify.app/'
 baseurl: '/'
 
 plugins: [jekyll-paginate-v2]
