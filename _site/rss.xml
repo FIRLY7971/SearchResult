@@ -7,6 +7,28 @@
 		<atom:link href="http://localhost:3000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Как правильно подавать свой продукт в интернете</title>
+				<description><![CDATA[
+					<a href="http://localhost:3000//blog/interest/2021-06-09-kak-pravilno-podavat-produkt.html"><img width="100%" src="http://localhost:3000/images/interest/2021/2021-06-09-kak-pravilno-podavat-produkt/655.jpg"></a>
+					Рассказываем некоторые тонкости о том как правильнее подать свой продукт в интернете.
+					]]></description>
+				<pubDate>Wed, 09 Jun 2021 00:00:00 +0300</pubDate>
+				<link>http://localhost:3000//blog/interest/2021-06-09-kak-pravilno-podavat-produkt.html</link>
+				<guid isPermaLink="true">http://localhost:3000//blog/interest/2021-06-09-kak-pravilno-podavat-produkt.html</guid>
+			</item>
+		
+			<item>
+				<title>Создание капсульной коллекции</title>
+				<description><![CDATA[
+					<a href="http://localhost:3000//blog/fashion-news/2021-06-02-sozdanie-kollekcii.html"><img width="100%" src="http://localhost:3000/images/fashion-news/2021/2021-06-02-sozdanie-kollekcii/6_4.jpg"></a>
+					Описание некоторых этапов создания капсульной коллекции.
+					]]></description>
+				<pubDate>Wed, 02 Jun 2021 00:00:00 +0300</pubDate>
+				<link>http://localhost:3000//blog/fashion-news/2021-06-02-sozdanie-kollekcii.html</link>
+				<guid isPermaLink="true">http://localhost:3000//blog/fashion-news/2021-06-02-sozdanie-kollekcii.html</guid>
+			</item>
+		
+			<item>
 				<title>SUPREME И NIKE ВЫПУСТЯТ СОВМЕСТНЫЕ AIR MAX 96</title>
 				<description><![CDATA[
 					<a href="http://localhost:3000//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html"><img width="100%" src="http://localhost:3000/images/interest/2021/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96/1.jpg"></a>
@@ -92,28 +114,6 @@
 				<pubDate>Thu, 25 Mar 2021 00:00:00 +0300</pubDate>
 				<link>http://localhost:3000//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</link>
 				<guid isPermaLink="true">http://localhost:3000//blog/collection/2021-03-25-raf-simons-fallwinter-2021-ready-to-wear.html</guid>
-			</item>
-		
-			<item>
-				<title>Интервью основатель бренда «Питерский щит» Костя Рязанцев</title>
-				<description><![CDATA[
-					<a href="http://localhost:3000//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html"><img width="100%" src="http://localhost:3000/images/fashion-news/2021/2021-03-22-osnovatel-marki-piterskij-shhit/1_2.jpg"></a>
-					Основатель бренда и субкультуры Костя Рязанцев
-					]]></description>
-				<pubDate>Mon, 22 Mar 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/fashion-news/2021-03-22-osnovatel-marki-piterskij-shhit.html</guid>
-			</item>
-		
-			<item>
-				<title>КОЛЛЕКЦИЯ MAISON MARGIELA FALL/WINTER 2020 COUTURE</title>
-				<description><![CDATA[
-					<a href="http://localhost:3000//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html"><img width="100%" src="http://localhost:3000/images/collection/2021/2021-03-20-maison-margiela-fallwinter-2020-couture/1.jpg"></a>
-					Обзор новой интересной коллекции MAISON MARGIELA
-					]]></description>
-				<pubDate>Sat, 20 Mar 2021 00:00:00 +0300</pubDate>
-				<link>http://localhost:3000//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html</link>
-				<guid isPermaLink="true">http://localhost:3000//blog/collection/2021-03-20-maison-margiela-fallwinter-2020-couture.html</guid>
 			</item>
 		
 	</channel>
