@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:3000//blog/interest/2021-06-09-kak-pravilno-podavat-produkt.html</loc>
+    <loc>https://blessing23.netlify.app//blog/fashion-news/2021-06-18-sozdanie-sport-kollekcii.html</loc>
+    <lastmod>2021-06-18T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blessing23.netlify.app//blog/interest/2021-06-09-kak-pravilno-podavat-produkt.html</loc>
     <lastmod>2021-06-09T00:00:00+03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000//blog/fashion-news/2021-06-02-sozdanie-kollekcii.html</loc>
+    <loc>https://blessing23.netlify.app//blog/fashion-news/2021-06-02-sozdanie-kollekcii.html</loc>
     <lastmod>2021-06-02T00:00:00+03:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</loc>
-=======
     <loc>https://blessing23.netlify.app//blog/interest/2021-05-04-supreme-i-nike-vypustyat-sovmestnye-air-max-96.html</loc>
->>>>>>> 9b3b6f1d8cbe9c9a1b5e2c6fb25ab734aa6ef333
     <lastmod>2021-05-04T00:00:00+03:00</lastmod>
   </url>
   <url>
@@ -123,113 +123,60 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:3000//about.html</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//rss.xml</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//search.html</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//sitemap.xml</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/backstage/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/collection/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/collection/page2/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/fashion-news/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/interest/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/page2/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/page3/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000//blog/page4/</loc>
-    <lastmod>2021-06-23T01:33:13+03:00</lastmod>
-=======
     <loc>https://blessing23.netlify.app//about.html</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//rss.xml</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//search.html</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//sitemap.xml</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/backstage/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/collection/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/collection/page2/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/fashion-news/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/interest/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/page2/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   <url>
     <loc>https://blessing23.netlify.app//blog/page3/</loc>
-    <lastmod>2021-06-22T16:29:28+03:00</lastmod>
->>>>>>> 9b3b6f1d8cbe9c9a1b5e2c6fb25ab734aa6ef333
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blessing23.netlify.app//blog/page4/</loc>
+    <lastmod>2021-06-24T09:32:53+03:00</lastmod>
   </url>
   
 </urlset>
